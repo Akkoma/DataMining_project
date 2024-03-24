@@ -2,5 +2,17 @@
     "file_name": "Q22774485.jpg",
     "size": 2342715,
     "format": "carre",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            211,
+            209,
+            199
+        ],
+        [
+            111,
+            105,
+            92
+        ]
+    ]
 }

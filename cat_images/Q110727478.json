@@ -2,5 +2,17 @@
     "file_name": "Q110727478.jpg",
     "size": 2821424,
     "format": "paysage",
-    "mode": "RGBA"
+    "mode": "RGBA",
+    "color": [
+        [
+            83,
+            72,
+            58
+        ],
+        [
+            228,
+            227,
+            217
+        ]
+    ]
 }

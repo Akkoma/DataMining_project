@@ -2,5 +2,17 @@
     "file_name": "Q2262318.jpg",
     "size": 270354,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            60,
+            49,
+            30
+        ],
+        [
+            222,
+            210,
+            191
+        ]
+    ]
 }

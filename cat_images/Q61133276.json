@@ -2,5 +2,17 @@
     "file_name": "Q61133276.jpg",
     "size": 2055946,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            122,
+            64,
+            66
+        ],
+        [
+            206,
+            201,
+            192
+        ]
+    ]
 }

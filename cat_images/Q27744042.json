@@ -2,5 +2,17 @@
     "file_name": "Q27744042.jpg",
     "size": 612809,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            58,
+            49,
+            44
+        ],
+        [
+            167,
+            154,
+            143
+        ]
+    ]
 }

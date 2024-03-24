@@ -2,5 +2,17 @@
     "file_name": "Q1201902.jpg",
     "size": 142203,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            95,
+            65,
+            59
+        ],
+        [
+            209,
+            199,
+            202
+        ]
+    ]
 }

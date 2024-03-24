@@ -2,5 +2,17 @@
     "file_name": "Q106828517.jpg",
     "size": 2128764,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            31,
+            13,
+            2
+        ],
+        [
+            130,
+            75,
+            29
+        ]
+    ]
 }

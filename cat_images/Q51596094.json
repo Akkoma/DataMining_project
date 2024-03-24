@@ -2,5 +2,17 @@
     "file_name": "Q51596094.jpg",
     "size": 178244,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            223,
+            228,
+            234
+        ],
+        [
+            100,
+            86,
+            76
+        ]
+    ]
 }
