@@ -2,5 +2,17 @@
     "file_name": "Q120122115.jpg",
     "size": 51399,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            161,
+            153,
+            143
+        ],
+        [
+            88,
+            79,
+            77
+        ]
+    ]
 }

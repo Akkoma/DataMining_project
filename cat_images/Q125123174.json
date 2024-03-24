@@ -2,5 +2,17 @@
     "file_name": "Q125123174.jpg",
     "size": 2064975,
     "format": "carre",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            48,
+            47,
+            45
+        ],
+        [
+            176,
+            172,
+            164
+        ]
+    ]
 }

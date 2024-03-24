@@ -2,5 +2,17 @@
     "file_name": "Q893453.jpg",
     "size": 3664386,
     "format": "portrait",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            63,
+            71,
+            64
+        ],
+        [
+            179,
+            180,
+            160
+        ]
+    ]
 }

@@ -2,5 +2,17 @@
     "file_name": "Q52150156.jpg",
     "size": 141426,
     "format": "portrait",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            77,
+            36,
+            25
+        ],
+        [
+            176,
+            156,
+            128
+        ]
+    ]
 }

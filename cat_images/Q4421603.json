@@ -2,5 +2,17 @@
     "file_name": "Q4421603.jpg",
     "size": 31988,
     "format": "paysage",
-    "mode": "RGB"
+    "mode": "RGB",
+    "color": [
+        [
+            41,
+            31,
+            19
+        ],
+        [
+            184,
+            137,
+            120
+        ]
+    ]
 }
