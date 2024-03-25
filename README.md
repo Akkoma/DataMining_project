@@ -6,16 +6,18 @@ Voir première cellule.
 
 
 # Stockage et gestion des images et des métadonnées associées
-Certaine de nos images comportait des information exif, néanmois nous avons decidé de 
+Certaine de nos images comportait des information exif, néanmois nous avons decidé de ne pas les importé pour une question d'homogeneité des informations des images.
 
 
 # Étiquetage et annotation
+
+
 # Approches automatisées de l'étiquetage
-Stockage et gestion des étiquettes et des annotations des images
-Utilisation d'algorithmes de classification et de regroupement
-Analyses de données
-Types d'analyses utilisées
-Utilisation de Pandas et Scikit-learn
+# Stockage et gestion des étiquettes et des annotations des images
+# Utilisation d'algorithmes de classification et de regroupement
+# Analyses de données
+# Types d'analyses utilisées
+# Utilisation de Pandas et Scikit-learn
 Utilisation d'algorithmes d'exploration de données
 Visualisation des données
 Types de techniques de visualisation utilisées
