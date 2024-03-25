@@ -1,5 +1,8 @@
 # DataMining_project
 
+# Utilisation de notre projet Jupyter:
+Pour utiliser correctement notre projet, vous devez lancé un par un vhaque programme en attandant que celui ci se termine
+
 # Collecte de données:
 Nous telechargeons nos images via une une requète sur Wikidata. cette collecte est donc automatisé et les images sont sous licensce libre 
 Voir première cellule.
