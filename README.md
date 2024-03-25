@@ -13,17 +13,3 @@ Certaine de nos images comportait des information exif, néanmois nous avons dec
 
 # Stockage et gestion des étiquettes et des annotations des images
 Cela ce met automatiquement dans un fichier json au nom de l'image
-
-# Analyses de données
-# Types d'analyses utilisées
-# Utilisation de Pandas et Scikit-learn
-Utilisation d'algorithmes d'exploration de données
-Visualisation des données
-Types de techniques de visualisation utilisées
-Utilisation de matplotlib
-Système de recommandation
-Stockage et gestion des préférences et du profil de l'utilisateur
-Utilisation d'algorithmes de recommandation
-Tests
-Présence de tests fonctionnels
-Présence de tests utilisateurs
